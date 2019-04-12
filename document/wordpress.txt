@@ -1,0 +1,17 @@
+database name : hobbvius_hobby_boxes
+
+		user name: hobbvius_boxes
+		password: 9hwf!_M{!msV
+
+
+
+
+login information: 
+
+	email: info@hobby-boxes.com
+	site title: Hobby Boxes
+	user: hobby_boxes
+	password: J08*xMn6Nsb%@CIicq
+
+
+dashboard location: http://hobby-boxes.com/wp-admin/
